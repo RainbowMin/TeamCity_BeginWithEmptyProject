@@ -10,6 +10,8 @@
     <groupId>org.jetbrains.teamcity</groupId>
     <artifactId>configs-dsl-kotlin-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <!-- 就在这里手动插入下面这一行 -->
+    <relativePath/>
   </parent>
 
   <repositories>
